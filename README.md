@@ -1,3 +1,3 @@
 #README
 
-HTML form for user registartion
+BASIC HTML form for user registartion
